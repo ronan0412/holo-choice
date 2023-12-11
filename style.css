@@ -1,0 +1,16 @@
+button {
+    color: #f0f8fc;
+    background-color: #39ABE0;
+    border: 0;
+    border-radius: 10px;
+    padding: 0 20px;
+    line-height: 2.5;
+    box-shadow: inset -2px -2px 3px #39ABE0, inset 2px 2px 3px #87cded;
+}
+
+button:hover {
+    color: #ffffff;
+}
+button:active {
+    box-shadow: inset -2px -2px 3px #87cded, inset 2px 2px 3px #39ABE0;
+}
