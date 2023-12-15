@@ -43,3 +43,5 @@ intervalID = 0;
 ・ "intervalID" を clearInterval() に渡すと繰り返しを停止できる  
 ・停止している目印は "intervalID" が n = 0 とした  
 https://developer.mozilla.org/ja/docs/Web/API/setInterval
+
+funtech/2_time
