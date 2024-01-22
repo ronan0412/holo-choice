@@ -50,14 +50,6 @@ holomem = [
         image:"https://hololive.hololivepro.com/wp-content/uploads/2023/04/bg_Hoshimachi-Suisei_01-1-925x1440.png"
     },
     {
-        JPname:"夜空メル",
-        ENname:"Yozora Mel",
-        group:"hololive JP",
-        gen:"1",
-        greetings:"こんかぷー！",
-        image:"https://hololive.hololivepro.com/wp-content/uploads/2023/04/Yozora-Mel_pr-img_01.png"
-    },
-    {
         JPname:"アキ・ローゼンタール",
         ENname:"Aki Rosenthal",
         group:"hololive JP",
