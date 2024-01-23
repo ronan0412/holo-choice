@@ -15,7 +15,7 @@ holomem = [
         group:"hololive JP",
         gen:"0",
         greetings:"こんそめ〜",
-        image:"https://hololive.hololivepro.com/wp-content/uploads/2021/04/unnamed-file-6-855x1536.png"
+        image:"public/image/holo-mem/tokino-sora-1139x2048.png"
     },
     {
         JPname:"ロボ子さん",
@@ -23,7 +23,7 @@ holomem = [
         group:"hololive JP",
         gen:"0",
         greetings:"はろーぼー！",
-        image:"https://hololive.hololivepro.com/wp-content/uploads/2020/06/roboco-san_pr-img_06.png"
+        image:"public/image/holo-mem/roboco-san_pr-img_06.png"
     },
     {
         JPname:"AZKi",
@@ -31,7 +31,7 @@ holomem = [
         group:"hololive JP",
         gen:"0",
         greetings:"こんあずき〜！",
-        image:"https://hololive.hololivepro.com/wp-content/uploads/2022/12/AZKi_pr-img_04-724x1440.png"
+        image:"public/image/holo-mem/AZKi_pr-img_01.png"
     },
     {
         JPname:"さくらみこ",
@@ -39,7 +39,7 @@ holomem = [
         group:"hololive JP",
         gen:"0",
         greetings:"にゃっはろ〜！",
-        image:"https://hololive.hololivepro.com/wp-content/uploads/2023/02/Sakura-Miko_pr-img_01-1008x1440.png"
+        image:"public/image/holo-mem/Sakura-Miko_pr-img_01.png"
     },
     {
         JPname:"星街すいせい",
@@ -47,7 +47,7 @@ holomem = [
         group:"hololive JP",
         gen:"0",
         greetings:"彗星の如く現れたスターの原石！アイドルVTuberの星街すいせいです！",
-        image:"https://hololive.hololivepro.com/wp-content/uploads/2023/04/bg_Hoshimachi-Suisei_01-1-925x1440.png"
+        image:"public/image/holo-mem/Hoshimachi-Suisei_pr-img_01.png"
     },
     {
         JPname:"アキ・ローゼンタール",
@@ -55,7 +55,7 @@ holomem = [
         group:"hololive JP",
         gen:"1",
         greetings:"アローナ！",
-        image:"https://hololive.hololivepro.com/wp-content/uploads/2023/04/Aki-Rosenthall_pr-img_01.png"
+        image:"public/image/holo-mem/Aki-Rosenthall_pr-img_01.png"
     },
     {
         JPname:"赤井はあと",
@@ -63,7 +63,7 @@ holomem = [
         group:"hololive JP",
         gen:"1",
         greetings:"こんるーじゅ！赤井はあとよ！",
-        image:"https://hololive.hololivepro.com/wp-content/uploads/2023/04/Akai-Haato_pr-img_01.png"
+        image:"public/image/holo-mem/Akai-Haato_pr-img_01.png"
     },
     {
         JPname:"白上フブキ",
@@ -71,7 +71,7 @@ holomem = [
         group:"hololive JP",
         gen:"1",
         greetings:"こんこんきーつね！",
-        image:"https://hololive.hololivepro.com/wp-content/uploads/2020/06/Shirakami-Fubuki_pr-img_01.png"
+        image:"public/image/holo-mem/Shirakami-Fubuki_pr-img_01.png"
     },
     {
         JPname:"夏色まつり",
@@ -79,7 +79,7 @@ holomem = [
         group:"hololive JP",
         gen:"1",
         greetings:"わっしょ～い！",
-        image:"https://hololive.hololivepro.com/wp-content/uploads/2020/06/matsuri_pr-img_2.png"
+        image:"public/image/holo-mem/matsuri_pr-img_2.png"
     },
     {
         JPname:"湊あくあ",
@@ -87,7 +87,7 @@ holomem = [
         group:"hololive JP",
         gen:"2",
         greetings:"皆さんどうもこんあくあ～！",
-        image:"https://hololive.hololivepro.com/wp-content/uploads/2023/04/Minato-Aqua_pr-img_01b.png"
+        image:"public/image/holo-mem/Minato-Aqua_pr-img_01b.png"
     },
     {
         JPname:"紫咲シオン",
@@ -95,7 +95,7 @@ holomem = [
         group:"hololive JP",
         gen:"2",
         greetings:"こんしお～",
-        image:"https://hololive.hololivepro.com/wp-content/uploads/2023/03/Murasaki-Shion_pr-img_01.png"
+        image:"public/image/holo-mem/Murasaki-Shion_pr-img_01.png"
     },
     {
         JPname:"百鬼あやめ",
@@ -103,7 +103,7 @@ holomem = [
         group:"hololive JP",
         gen:"2",
         greetings:"人間様たちこんなきりー！やほ～～！",
-        image:"https://hololive.hololivepro.com/wp-content/uploads/2020/06/Nakiri-Ayame_pr-img_01.png"
+        image:"public/image/holo-mem/Nakiri-Ayame_pr-img_01.png"
     },
     {
         JPname:"癒月ちょこ",
@@ -111,7 +111,7 @@ holomem = [
         group:"hololive JP",
         gen:"2",
         greetings:"Good evening!my cute students.ちょっこーん！",
-        image:"https://hololive.hololivepro.com/wp-content/uploads/2023/04/Yuzuki-Choco_pr-img_01-1.png"
+        image:"public/image/holo-mem/Yuzuki-Choco_pr-img_01-1.png"
     },
     {
         JPname:"大空スバル",
@@ -119,7 +119,7 @@ holomem = [
         group:"hololive JP",
         gen:"2",
         greetings:"ちわーす！ホロライブ2期生大空スバルっス！！",
-        image:"https://hololive.hololivepro.com/wp-content/uploads/2020/06/Oozora-Subaru_pr-img_01.png"
+        image:"public/image/holo-mem/Oozora-Subaru_pr-img_01.png"
     },
     {
         JPname:"白上フブキ",
@@ -127,7 +127,7 @@ holomem = [
         group:"hololive JP",
         gen:"gamers",
         greetings:"こんこんきーつね！",
-        image:"https://hololive.hololivepro.com/wp-content/uploads/2020/06/Shirakami-Fubuki_pr-img_01.png"
+        image:"public/image/holo-mem/Shirakami-Fubuki_pr-img_01.png"
     },
     {
         JPname:"大神ミオ",
@@ -135,7 +135,7 @@ holomem = [
         group:"hololive JP",
         gen:"gamers",
         greetings:"こんばんみぉーん！大神ミオだよ～！",
-        image:"https://hololive.hololivepro.com/wp-content/uploads/2023/01/Ookami-Mio_pr-img_01.png"
+        image:"public/image/holo-mem/Ookami-Mio_pr-img_01.png"
     },
     {
         JPname:"猫又おかゆ",
@@ -143,7 +143,7 @@ holomem = [
         group:"hololive JP",
         gen:"gamers",
         greetings:"もぐもぐ～おかゆ～！",
-        image:"https://hololive.hololivepro.com/wp-content/uploads/2023/04/Nekomata-Okayu_pr-img_01.png"
+        image:"public/image/holo-mem/Nekomata-Okayu_pr-img_01.png"
     },
     {
         JPname:"戌神ころね",
@@ -151,7 +151,7 @@ holomem = [
         group:"hololive JP",
         gen:"gamers",
         greetings:"ぉぁよ～！ゆびゆび～",
-        image:"https://hololive.hololivepro.com/wp-content/uploads/2023/04/Inugami-Korone_pr-img_01.png"
+        image:"public/image/holo-mem/Inugami-Korone_pr-img_01.png"
     },
     {
         JPname:"兎田ぺこら",
@@ -159,7 +159,7 @@ holomem = [
         group:"hololive JP",
         gen:"3",
         greetings:"こんぺこ！こんぺこ！こんぺこー！兎田ぺこらぺこ～！どうも〜どうも〜",
-        image:"https://hololive.hololivepro.com/wp-content/uploads/2023/04/Usada-Pekora_pr-img_01.png"
+        image:"public/image/holo-mem/Usada-Pekora_pr-img_01.png"
     },
     {
         JPname:"不知火フレア",
@@ -167,7 +167,7 @@ holomem = [
         group:"hololive JP",
         gen:"3",
         greetings:"こんぬいー！",
-        image:"https://hololive.hololivepro.com/wp-content/uploads/2023/04/Shiranui-Flare_pr-img_01.png"
+        image:"public/image/holo-mem/Shiranui-Flare_pr-img_01.png"
     },
     {
         JPname:"白銀ノエル",
@@ -175,7 +175,7 @@ holomem = [
         group:"hololive JP",
         gen:"3",
         greetings:"こんまっする～！",
-        image:"https://hololive.hololivepro.com/wp-content/uploads/2023/01/Shirogane-Noel_pr-img_02.png"
+        image:"public/image/holo-mem/Shirogane-Noel_pr-img_02.png"
     },
     {
         JPname:"宝鐘マリン",
@@ -183,7 +183,7 @@ holomem = [
         group:"hololive JP",
         gen:"3",
         greetings:"Ahoy!宝鐘海賊団船長！宝鐘マリンです～！",
-        image:"https://hololive.hololivepro.com/wp-content/uploads/2023/03/Houshou-Marine_pr-img_1.png"
+        image:"public/image/holo-mem/Houshou-Marine_pr-img_1.png"
     },
     {
         JPname:"天音かなた",
@@ -191,7 +191,7 @@ holomem = [
         group:"hololive JP",
         gen:"4",
         greetings:"へい！みんなこんかなた～！",
-        image:"https://hololive.hololivepro.com/wp-content/uploads/2023/04/Amane-Kanata_pr-img_01.png"
+        image:"public/image/holo-mem/Amane-Kanata_pr-img_01.png"
     },
     {
         JPname:"角巻わため",
@@ -199,7 +199,7 @@ holomem = [
         group:"hololive JP",
         gen:"4",
         greetings:"こんばんドドド～！",
-        image:"https://hololive.hololivepro.com/wp-content/uploads/2023/04/Tsunomaki-Watame_pr-img_01-1.png"
+        image:"public/image/holo-mem/Tsunomaki-Watame_pr-img_01-1.png"
     },
     {
         JPname:"常闇トワ",
@@ -207,7 +207,7 @@ holomem = [
         group:"hololive JP",
         gen:"4",
         greetings:"こんやっぴーホロライブ4期生常闇トワ様です",
-        image:"https://hololive.hololivepro.com/wp-content/uploads/2020/06/Tokoyami-Towa_pr-img_01.png"
+        image:"public/image/holo-mem/Tokoyami-Towa_pr-img_01.png"
     },
     {
         JPname:"姫森ルーナ",
@@ -215,7 +215,7 @@ holomem = [
         group:"hololive JP",
         gen:"4",
         greetings:"みんな～、おりゅ～？",
-        image:"https://hololive.hololivepro.com/wp-content/uploads/2020/06/Himemori-Luna_pr-img_01.png"
+        image:"public/image/holo-mem/Himemori-Luna_pr-img_01.png"
     },
     {
         JPname:"雪花ラミィ",
@@ -223,7 +223,7 @@ holomem = [
         group:"hololive JP",
         gen:"5",
         greetings:"こんらみです",
-        image:"https://hololive.hololivepro.com/wp-content/uploads/2020/06/Yukihana-Lamy_pr-img_01.png"
+        image:"public/image/holo-mem/Yukihana-Lamy_pr-img_01.png"
     },
     {
         JPname:"桃鈴ねね",
@@ -231,7 +231,7 @@ holomem = [
         group:"hololive JP",
         gen:"5",
         greetings:"こんねね～！ホロライブ5期生オレンジ担当、 アイドルVTuberの桃鈴ねねで～す！",
-        image:"https://hololive.hololivepro.com/wp-content/uploads/2020/06/Momosuzu-Nene_pr-img_01.png"
+        image:"public/image/holo-mem/Momosuzu-Nene_pr-img_01.png"
     },
     {
         JPname:"獅白ぼたん",
@@ -239,7 +239,7 @@ holomem = [
         group:"hololive JP",
         gen:"5",
         greetings:"ららーいおん♪",
-        image:"https://hololive.hololivepro.com/wp-content/uploads/2020/07/Shishiro-Botan_pr-img_01.png"
+        image:"public/image/holo-mem/Shishiro-Botan_pr-img_01.png"
     },
     {
         JPname:"尾丸ポルカ",
@@ -247,7 +247,7 @@ holomem = [
         group:"hololive JP",
         gen:"5",
         greetings:"はーい尾丸ポルカでーす",
-        image:"https://hololive.hololivepro.com/wp-content/uploads/2023/04/Omaru-Polka_pr-img_01.png"
+        image:"public/image/holo-mem/Omaru-Polka_pr-img_01.png"
     },
     {
         JPname:"ラプラス・ダークネス",
@@ -255,7 +255,7 @@ holomem = [
         group:"hololive JP",
         gen:"holox",
         greetings:"貴様ら、刮目せよ！！",
-        image:"https://hololive.hololivepro.com/wp-content/uploads/2022/09/La-Darknesss_pr-img_02.png"
+        image:"public/image/holo-mem/La-Darknesss_pr-img_02.png"
     },
     {
         JPname:"鷹嶺ルイ",
@@ -263,7 +263,7 @@ holomem = [
         group:"hololive JP",
         gen:"holox",
         greetings:"まったかね〜？",
-        image:"https://hololive.hololivepro.com/wp-content/uploads/2022/09/Takane-Lui_pr-img_02.png"
+        image:"public/image/holo-mem/Takane-Lui_pr-img_02.png"
     },
     {
         JPname:"博衣こより",
@@ -271,7 +271,7 @@ holomem = [
         group:"hololive JP",
         gen:"holox",
         greetings:"こんこよー！",
-        image:"https://hololive.hololivepro.com/wp-content/uploads/2022/09/Hakui-Koyori_pr-img_02.png"
+        image:"public/image/holo-mem/Hakui-Koyori_pr-img_02.png"
     },
     {
         JPname:"沙花叉クロヱ",
@@ -279,7 +279,7 @@ holomem = [
         group:"hololive JP",
         gen:"holox",
         greetings:"秘密結社holoXの掃除屋インターン！",
-        image:"https://hololive.hololivepro.com/wp-content/uploads/2020/07/Sakamata-Chloe_pr-img01.png"
+        image:"public/image/holo-mem/Sakamata-Chloe_pr-img01.png"
     },
     {
         JPname:"風真いろは",
@@ -287,6 +287,6 @@ holomem = [
         group:"hololive JP",
         gen:"holox",
         greetings:"秘密結社holoXの用心棒！",
-        image:"https://hololive.hololivepro.com/wp-content/uploads/2020/07/Kazama-Iroha_pr-img_01-1.png"
+        image:"public/image/holo-mem/Kazama-Iroha_pr-img_01-1.png"
     }
 ]
